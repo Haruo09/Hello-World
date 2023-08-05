@@ -8,4 +8,4 @@ nenhuma, pois só usa bibliotecas built-in
 - python3 main.py
 
 #### Contribuintes:
-Haruo09, B166erbot
+Haruo09, ProfessorAnônimoO_O
